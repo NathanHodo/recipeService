@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kenzie.capstone.service.LambdaRecipeServiceTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-04-10T15:51:21" hostname="MacBook-Pro.attlocal.net" time="0.165">
+  <properties/>
+  <testcase name="getRecipesByDietaryRestrictionTest_noRecipes()" classname="com.kenzie.capstone.service.LambdaRecipeServiceTest" time="0.083"/>
+  <testcase name="getRecipeData_recipeIsReturned()" classname="com.kenzie.capstone.service.LambdaRecipeServiceTest" time="0.036"/>
+  <testcase name="getRecipeData_noRecipe()" classname="com.kenzie.capstone.service.LambdaRecipeServiceTest" time="0.001"/>
+  <testcase name="updateRecipeDataTest()" classname="com.kenzie.capstone.service.LambdaRecipeServiceTest" time="0.018"/>
+  <testcase name="setRecipeDataTest()" classname="com.kenzie.capstone.service.LambdaRecipeServiceTest" time="0.006"/>
+  <testcase name="deleteRecipeDataTest()" classname="com.kenzie.capstone.service.LambdaRecipeServiceTest" time="0.003"/>
+  <testcase name="getRecipesByDietaryRestrictionListIsReturned()" classname="com.kenzie.capstone.service.LambdaRecipeServiceTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,13 @@
+Resources:
+  Function:
+    Type: AWS::Serverless::Function
+    Properties:
+      Timeout: 300
+      MemorySize: 128
+      Handler: com.kenzie.capstone.service.lambda.SetRecipeData
+      CodeUri: s3://capstone-dreamteamrepo-artifacts/34aef63ac7fc7e9643b7abef3c5c8b85
+      Runtime: java11
+      Architectures:
+      - x86_64
+    Metadata:
+      SamResourceId: Function
